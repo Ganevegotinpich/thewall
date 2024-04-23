@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816407738639",
+    "project_id": "wall-daefe",
+    "storage_bucket": "wall-daefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816407738639:android:1b03a9327c53c45b37e67a",
+        "android_client_info": {
+          "package_name": "com.example.thewall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBWP6aI1WE9RahD8PzE1-SxaTrzGxc-HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
